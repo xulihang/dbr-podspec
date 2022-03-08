@@ -1,7 +1,7 @@
 {
   "name": "DynamsoftCameraEnhancer",
-  "version": "2.0.0",
-  "summary": "Dynamsoft Camera Enhancer",
+  "version": "2.1.3",
+  "summary": "Dynamsoft Camera Enhancer is an SDK that integrates High-level camera control APIs and video frame pre-processing features.",
   "homepage": "https://www.dynamsoft.com",
   "license": {
     "type": "Commercial",
@@ -11,7 +11,7 @@
     "Dynamsoft": "sales@dynamsoft.com"
   },
   "source": {
-    "http": "https://github.com/xulihang/dbr-podspec/releases/download/dce/dynamsoft-cameraenhancer-ios-2.0.0.zip"
+    "http": "https://download.dynamsoft.com/cocoapods/dynamsoft-cameraenhancer-ios-2.1.3.zip"
   },
   "platforms": {
     "ios": "9.0"

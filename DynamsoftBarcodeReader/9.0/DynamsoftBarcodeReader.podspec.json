@@ -1,6 +1,6 @@
 {
   "name": "DynamsoftBarcodeReader",
-  "version": "9.0.0",
+  "version": "9.0",
   "summary": "A Robust Barcode Scanner SDK with Flexible APIs for Linear, QR Code, PDF417, and More",
   "homepage": "https://www.dynamsoft.com",
   "license": {
